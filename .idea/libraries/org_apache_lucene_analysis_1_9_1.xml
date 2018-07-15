@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.apache.lucene.analysis-1.9.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../javalib/org.apache.lucene.analysis-1.9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
